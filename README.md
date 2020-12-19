@@ -1,4 +1,8 @@
 # gitBasics
-Learn and practice git basics
+practice git basics
 
 Second commit
+
+Third commit
+
+
